@@ -1,5 +1,8 @@
 Revision history for Perl Template::Toolkit plugin: Template::Plugin::xkcd
 
+0.003   01.03.12
+        * Whoops, didn't clean changes file that was copied. R3VoLuT1OneR++!
+
 0.002   01.03.12
         * Require WWW::xkcd 0.002 for fetch_metadata method.
 
