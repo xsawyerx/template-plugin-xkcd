@@ -1,5 +1,8 @@
 Revision history for Perl extension Sys::HostIP.
 
+0.002   01.03.12
+        * Require WWW::xkcd 0.002 for fetch_metadata method.
+
 0.001   01.03.12
         * Booya!
 
